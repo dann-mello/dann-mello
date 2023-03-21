@@ -4,7 +4,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Daniel Melo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dann_mello&color=0c1337" alt="Profile views" /> </p>
 
-(https://readme-typing-svg.herokuapp.com/?color=0c1337&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Daniel+Melo;I'm+19+years+old;I+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c1337&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Daniel+Melo;I'm+19+years+old;I+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
