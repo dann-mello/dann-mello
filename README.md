@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=172465&height=120&section=header"/>
 
 <div align="right">
-<img align="right" height="530em" src=https://raw.githubusercontent.com/gist/dann-mello/4b9e857685076dc196cb64314e4dc76c/raw/b65a36e2d3909e82e197fef1d94dc2ebdb5d4e9e/cardgithub.svg/>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=dannmello&color=0c1337" alt="Profile views" /> </p>
+<img height="530em" src=https://raw.githubusercontent.com/gist/dann-mello/4b9e857685076dc196cb64314e4dc76c/raw/b65a36e2d3909e82e197fef1d94dc2ebdb5d4e9e/cardgithub.svg/>
+  <p> <img src="https://komarev.com/ghpvc/?username=dannmello&color=0c1337" alt="Profile views" /> </p>
   </div>
 
 
