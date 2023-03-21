@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=172465&height=120&section=header"/>
 
 <div align="center">
-<div align="right">
+<div align="right" width="50%">
 <img height="530em" src=https://raw.githubusercontent.com/gist/dann-mello/4b9e857685076dc196cb64314e4dc76c/raw/b65a36e2d3909e82e197fef1d94dc2ebdb5d4e9e/cardgithub.svg/>
   <p> <img src="https://komarev.com/ghpvc/?username=dannmello&color=0c1337" alt="Profile views" /> </p>
   </div>
@@ -11,7 +11,7 @@
 
 
 
-<div align="left">  
+<div align="left" width="50%">  
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MthAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MthAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
