@@ -6,7 +6,7 @@
   <p> <img src="https://komarev.com/ghpvc/?username=dannmello&color=0c1337" alt="Profile views" /> </p>
   
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=172465&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Daniel+Melo;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=172465&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Daniel+Melo;Be+Welcome!)](https://git.io/typing-svg)
 
 
 
