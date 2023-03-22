@@ -66,6 +66,6 @@ Here are some ideas to get you started:
 <!--![ReactNative](https://img.shields.io/badge/-reactnative-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=purple)&nbsp;-->
 ![MongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
- ![Snake animation](https://github.com/dann-mello/dann-mello/blob/output/github-contribution-grid-snake.svg)
+ <!--![Snake animation](https://github.com/dann-mello/dann-mello/blob/output/github-contribution-grid-snake.svg)-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=172465&height=120&section=footer"/>
